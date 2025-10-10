@@ -5,7 +5,7 @@ local player = Players.LocalPlayer
 local whitelist = {
 	9685039509, -- eric
     9477571655, -- senap
-    9670086844 -- alt account
+    9674791880 -- alt account
 }
 
 local function checkWhitelist()
