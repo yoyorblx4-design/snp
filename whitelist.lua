@@ -2,10 +2,7 @@ local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local player = Players.LocalPlayer
 
-local whitelist = {
-	9685039509, -- eric
-    9477571655 -- senap
-}
+local whitelist = {9685039509, 9477571655}
 
 local function checkWhitelist()
 	if not table.find(whitelist, player.UserId) then
