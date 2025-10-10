@@ -3,7 +3,7 @@ local RunService = game:GetService("RunService")
 local player = Players.LocalPlayer
 
 local whitelist = {
-9685039509, -- eric
+	9685039509, -- eric
     9477571655 -- senap
 }
 
